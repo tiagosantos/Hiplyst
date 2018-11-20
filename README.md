@@ -18,3 +18,5 @@ Rails API + ReactJS development with based on this tutorial https://medium.com/@
 
 * Database initialization
   rails db:seed
+
+<img src="https://github.com/tiagosantos/Hiplyst/blob/master/public/screenshot.png">
